@@ -1,0 +1,23 @@
+- icon: icon-user-md
+  title: Consultation
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: icon-diamond
+  title: Radiological and Imaging Services
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde? 
+
+- icon: icon-flask
+  title: Laboratory Testing
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+
+- icon: icon-globe
+  title: Pharmacy Services
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: icon-ambulance
+  title: Emergency Calls
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: icon-bed
+  title: Midwifery Services
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
