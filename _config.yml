@@ -1,0 +1,65 @@
+# Site settings
+title: Kismayo Medical Center | Always Caring. Always Here.
+description: "A premier healthcare facility in Kismayo"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the name of your domain
+logo_url: svg/min/logo.svg
+
+# Hero
+hero: 
+    hero_img: hero.jpg
+    hero_title: Kismayo Medical Center
+    hero_description: A A premier healthcare facility in Kismayo.
+
+# Contact form
+api_token: # Enter API token here
+
+# Contact info
+contact:
+    phone: +252 617 989391
+    emergency: +252 615 509888
+    email: info@kismayomed.com
+    address: Via Afmadow, Alanley<br> Kismayo - Somalia
+
+# Opening hours
+monday_friday: 9:00 – 18:00
+saturday: 10:00 – 17:00
+sunday: 10:00 – 15:00
+
+# Testimonials
+testimonials:
+    testimonials_img: parallax.jpg
+
+# Map
+map:
+    zoom: 17
+    address: Von schroeders 273, Viña del mar, Chile
+    address_details: svg/min/logo.svg
+
+# Social settings
+facebook: http://facebook.com
+twitter: http://twitter.com
+instagram: http://instagram.com
+youtube: http://youtube.com
+skype: skype:
+feed: yes
+
+# Footer
+copyright: © 2016 Kismayo Medical Center - All rights reserved
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
+# Theme Settings
+analytics: 
+google_verification:
