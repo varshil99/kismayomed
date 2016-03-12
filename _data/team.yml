@@ -1,0 +1,24 @@
+- name: Dr. Mohamed Burhan, MBBS
+  image: team.jpg
+  email: dr@kismayomed.com
+  phone: 0615 509 888
+
+- name: Yasmin  
+  image: team.jpg
+  email: lab@kismayomed.com
+  phone: 0615 428204
+
+- name: Ahmed
+  image: team.jpg
+  email: pharm@kismayomed.com
+  phone: 0617 989392
+
+- name: Adan 
+  image: team.jpg
+  email: hr@kismayomed.com
+  phone: 0617 989391
+
+- name: Mohamud
+  image: team.jpg
+  email: gr@kismayomed.com
+  phone: 0616 234242
