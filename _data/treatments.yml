@@ -1,14 +1,14 @@
 - icon: icon-user-md
   title: Consultation
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description: Upon visiting the hospital, a patient will be required to pick a ticket that helps to provide services on a first-come, first-served basis. At the reception desk, staff will guide patients through patient services and provide advice according to needs.  The triage is the first clinical contact point where vitals are taken before consulting the doctor (Senior House Officer). Following a consultation, the doctor will refer patients to the relevant diagnostic department (laboratory, radiology or to the pharmacy).
 
 - icon: icon-diamond
   title: Radiological and Imaging Services
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde? 
+  description:  Our Radiology Department provides a comprehensive range of imaging services, including both routine and specialized procedures.
 
 - icon: icon-flask
   title: Laboratory Testing
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+  description: 
 
 - icon: icon-globe
   title: Pharmacy Services
